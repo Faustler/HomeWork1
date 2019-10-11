@@ -1,0 +1,27 @@
+.letter1 {
+    font-weight: 900;
+    font-size: 1.5cm;
+    color: red
+}
+
+.letter2 {
+    font-weight: 900;
+    font-size: 1.5cm;
+    color: red
+}
+
+.letter3 {
+    font-weight: 900;
+    font-size: 1.5cm;
+    color: blue
+}
+
+.letter4 {
+    font-weight: 900;
+    font-size: 1.5cm;
+    color: black
+}
+
+.ordinary {
+    color: brown;
+}
